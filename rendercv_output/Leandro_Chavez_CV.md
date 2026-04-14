@@ -90,8 +90,8 @@ Nov 2024
 
 
 # Habilidades
-**Desarrollo y Arquitectura:** Kotlin, Python (NumPy, Pandas), T-SQL; POO, Patrones de Diseño (Strategy, Builder, Template Method), Testeo unitario (Kotest, Mocks, Stubs); C, Assembly 8086.
+**Desarrollo y Arquitectura:** Kotlin, Python (NumPy, Pandas), T-SQL; POO, Patrones de Diseño (Strategy, Builder, Template Method), Testeo unitario (Kotest, Mocks, Stubs); C, Assembly 8086, Soporte de hardware, Armado de PC, Impresoras, Trobuleshooting / Soporte L1.
 
-**Sistemas, Redes y Herramientas:** Linux, Bash, Virtualización; Protocolos TCP/IP, Wireshark, GNS3; Git, GitHub, Jira, Documentación técnica.
+**Sistemas, Redes y Herramientas:** Linux, Bash, Windows, Virtualización; Protocolos TCP/IP, Wireshark, GNS3; Git, GitHub, Jira, Documentación técnica.
 
 **Idiomas:** Inglés bilingüe (C2 - EF SET Certificate 77/100).

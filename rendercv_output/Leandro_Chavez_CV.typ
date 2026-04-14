@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 4,
-    day: 10,
+    day: 14,
   ),
 )
 
@@ -234,8 +234,8 @@ Estudiante avanzado de Programación Informática con foco en desarrollo de soft
 
 == Habilidades
 
-#strong[Desarrollo y Arquitectura:] Kotlin, Python (NumPy, Pandas), T-SQL; POO, Patrones de Diseño (Strategy, Builder, Template Method), Testeo unitario (Kotest, Mocks, Stubs); C, Assembly 8086.
+#strong[Desarrollo y Arquitectura:] Kotlin, Python (NumPy, Pandas), T-SQL; POO, Patrones de Diseño (Strategy, Builder, Template Method), Testeo unitario (Kotest, Mocks, Stubs); C, Assembly 8086, Soporte de hardware, Armado de PC, Impresoras, Trobuleshooting \/ Soporte L1.
 
-#strong[Sistemas, Redes y Herramientas:] Linux, Bash, Virtualización; Protocolos TCP\/IP, Wireshark, GNS3; Git, GitHub, Jira, Documentación técnica.
+#strong[Sistemas, Redes y Herramientas:] Linux, Bash, Windows, Virtualización; Protocolos TCP\/IP, Wireshark, GNS3; Git, GitHub, Jira, Documentación técnica.
 
 #strong[Idiomas:] Inglés bilingüe (C2 - EF SET Certificate 77\/100).
