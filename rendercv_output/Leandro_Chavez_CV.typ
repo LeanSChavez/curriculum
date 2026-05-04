@@ -6,7 +6,7 @@
   name: "Leandro Chavez",
   title: "Leandro Chavez - CV",
   footer: context { [#emph[Leandro Chavez -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in Apr 2026] ],
+  top-note: [ #emph[Last updated in May 2026] ],
   locale-catalog-language: "en",
   text-direction: ltr,
   page-size: "us-letter",
@@ -80,8 +80,8 @@
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
     year: 2026,
-    month: 4,
-    day: 14,
+    month: 5,
+    day: 4,
   ),
 )
 
@@ -236,6 +236,6 @@ Estudiante avanzado de Programación Informática con foco en desarrollo de soft
 
 #strong[Desarrollo y Arquitectura:] Kotlin, Python (NumPy, Pandas), T-SQL; POO, Patrones de Diseño (Strategy, Builder, Template Method), Testeo unitario (Kotest, Mocks, Stubs); C, Assembly 8086, Soporte de hardware, Armado de PC, Impresoras, Trobuleshooting \/ Soporte L1.
 
-#strong[Sistemas, Redes y Herramientas:] Linux, Bash, Windows, Virtualización; Protocolos TCP\/IP, Wireshark, GNS3; Git, GitHub, Jira, Documentación técnica.
+#strong[Sistemas, Redes y Herramientas:] Linux, Bash, Windows, Virtualización; Protocolos TCP\/IP, Wireshark, GNS3; Git, GitHub, Jira, Documentación técnica, Active Directory.
 
 #strong[Idiomas:] Inglés bilingüe (C2 - EF SET Certificate 77\/100).
