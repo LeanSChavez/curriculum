@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 5,
-    day: 4,
+    day: 12,
   ),
 )
 
@@ -189,11 +189,11 @@ Estudiante avanzado de Programación Informática con foco en desarrollo de soft
 
   ],
   main-column-second-row: [
-    - Desarrollo de arquitectura estructurada aplicando patrones de diseño (Strategy, Template Method) para la asignación y gestión dinámica de roles y entidades.
+    - Desarrollo de arquitectura estructurada aplicando patrones de diseño para la asignación y gestión dinámica de roles y entidades.
 
     - Redacción de pruebas unitarias (Kotest, Mocks, Stubs) y optimización de algoritmos de validación para minimizar el consumo de recursos.
 
-    - Flujo de desarrollo colaborativo en Git, gestionando ramas individuales e integrando código mediante revisión y aprobación de Pull Requests.
+    - Flujo de desarrollo colaborativo en Git, gestionando ramas individuales e integrando código mediante revisión y aprobación de Pull Requests e integracion con Github Actions.
 
   ],
 )
@@ -234,7 +234,7 @@ Estudiante avanzado de Programación Informática con foco en desarrollo de soft
 
 == Habilidades
 
-#strong[Desarrollo y Arquitectura:] Kotlin, Python (NumPy, Pandas), T-SQL; POO, Patrones de Diseño (Strategy, Builder, Template Method), Testeo unitario (Kotest, Mocks, Stubs); C, Assembly 8086, Soporte de hardware, Armado de PC, Impresoras, Trobuleshooting \/ Soporte L1.
+#strong[Desarrollo y Arquitectura:] Kotlin, Python (NumPy, Pandas), T-SQL; POO, Patrones de Diseño (Strategy, Builder, Template Method, Decorator, Generics, Observer), Testeo unitario (Kotest, Mocks, Stubs); C, Assembly 8086, Soporte de hardware, Armado de PC, Impresoras, Trobuleshooting \/ Soporte L1.
 
 #strong[Sistemas, Redes y Herramientas:] Linux, Bash, Windows, Virtualización; Protocolos TCP\/IP, Wireshark, GNS3; Git, GitHub, Jira, Documentación técnica, Active Directory.
 
