@@ -42,9 +42,9 @@ cv:
       - name: Simulación Espacial - Lógica de Negocio y Testing (Kotlin)
         date: 2026-04
         highlights:
-          - 'Desarrollo de arquitectura estructurada aplicando patrones de diseño (Strategy, Template Method) para la asignación y gestión dinámica de roles y entidades.'
+          - 'Desarrollo de arquitectura estructurada aplicando patrones de diseño para la asignación y gestión dinámica de roles y entidades.'
           - 'Redacción de pruebas unitarias (Kotest, Mocks, Stubs) y optimización de algoritmos de validación para minimizar el consumo de recursos.'
-          - 'Flujo de desarrollo colaborativo en Git, gestionando ramas individuales e integrando código mediante revisión y aprobación de Pull Requests.'
+          - 'Flujo de desarrollo colaborativo en Git, gestionando ramas individuales e integrando código mediante revisión y aprobación de Pull Requests e integracion con Github Actions.'
       
       - name: Red neuronal de clasificación desde cero (Python)
         date: 2025-07
@@ -58,7 +58,7 @@ cv:
           - 'Gestión manual de memoria, registros y temporización para un control fino del hardware.'
     habilidades:
       - label: Desarrollo y Arquitectura
-        details: Kotlin, Python (NumPy, Pandas), T-SQL; POO, Patrones de Diseño (Strategy, Builder, Template Method), Testeo unitario (Kotest, Mocks, Stubs); C, Assembly 8086, Soporte de hardware, Armado de PC, Impresoras, Trobuleshooting / Soporte L1.
+        details: Kotlin, Python (NumPy, Pandas), T-SQL; POO, Patrones de Diseño (Strategy, Builder, Template Method, Decorator, Generics, Observer), Testeo unitario (Kotest, Mocks, Stubs); C, Assembly 8086, Soporte de hardware, Armado de PC, Impresoras, Trobuleshooting / Soporte L1.
       - label: Sistemas, Redes y Herramientas
         details: Linux, Bash, Windows, Virtualización; Protocolos TCP/IP, Wireshark, GNS3; Git, GitHub, Jira, Documentación técnica, Active Directory.
       - label: Idiomas
