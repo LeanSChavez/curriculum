@@ -58,9 +58,9 @@ cv:
           - 'Gestión manual de memoria, registros y temporización para un control fino del hardware.'
     habilidades:
       - label: Desarrollo y Arquitectura
-        details: Kotlin, Python (NumPy, Pandas), T-SQL; POO, Patrones de Diseño (Strategy, Builder, Template Method, Decorator, Generics, Observer), Testeo unitario (Kotest, Mocks, Stubs); C, Assembly 8086, Soporte de hardware, Armado de PC, Impresoras, Trobuleshooting / Soporte L1.
+        details: Kotlin, Python (NumPy, Pandas), T-SQL; POO, Patrones de Diseño (Strategy, Builder, Template Method, Decorator, Generics, Observer), Testeo unitario (Kotest, Mocks, Stubs); C, Assembly 8086, Soporte de hardware, Armado de PC, Playwright, Trobuleshooting / Soporte L1.
       - label: Sistemas, Redes y Herramientas
-        details: Linux, Bash, Windows, Virtualización; Protocolos TCP/IP, Wireshark, GNS3; Git, GitHub, Jira, Documentación técnica, Active Directory.
+        details: Linux, Bash, Windows, Virtualización; Protocolos TCP/IP, Wireshark, GNS3; Git, GitHub, Jira, Documentación técnica, Active Directory, CI/CD (Integracion Continua, Despliegue Continuo), Github Actions.
       - label: Idiomas
         details: Inglés bilingüe (C2 - EF SET Certificate 77/100).
 
