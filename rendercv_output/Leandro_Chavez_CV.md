@@ -3,12 +3,12 @@
 - Phone: +54 11 5529 2758
 - Email: [leanchavez.importante@gmail.com](mailto:leanchavez.importante@gmail.com)
 - Location: San Isidro, Buenos Aires
-- LinkedIn: [leanschavez](https://linkedin.com/in/leanschavez)
-- GitHub: [LeanSChavez](https://github.com/LeanSChavez)
+- LinkedIn: [LinkedIn LeanSChavez](https://linkedin.com/in/LinkedIn LeanSChavez)
+- GitHub: [Github LeanSChavez](https://github.com/Github LeanSChavez)
 
 
 # Perfil Profesional
-Estudiante avanzado de Programación Informática con foco en desarrollo de software, lenguajes orientados a objetos y patrones de diseño. Mi formación como Técnico Electromecánico me facilita la adaptación a entornos técnicos, lo que complemento además con un manejo avanzado de Linux y conocimiento de Sistemas Operativos. Inglés bilingüe (C2).
+Estudiante avanzado como Técnico en Programación Informática y Técnico Electromecánico. Combino experiencia práctica en soporte técnico (Help Desk) con conocimientos sólidos en desarrollo de software orientado a objetos, arquitecturas API REST y automatización de pruebas (QA Testing). Este perfil técnico se complementa con un manejo avanzado de sistemas Linux y nivel de inglés bilingüe (C2).
 
 # Educacion
 ## **Universidad Nacional San Martin**, Tec. in Programación Informática -- Argentina
@@ -16,7 +16,7 @@ Estudiante avanzado de Programación Informática con foco en desarrollo de soft
 **Tec.**
 
 
-2023 - 2027
+2023 - Actualidad
 
 
 
@@ -34,11 +34,11 @@ Estudiante avanzado de Programación Informática con foco en desarrollo de soft
 
 2020 - 2025
 
-- Configuración y administración de servidores en Discord, integrando bots y automatizaciones para la gestión de roles, moderación y sistemas de tickets (Help Desk).
+- Configuración y administración de servidores, integrando bots y automatizaciones para la gestión de roles, moderación y un sistema propio de tickets (Help Desk).
 
-- Resolución de incidencias y soporte técnico en tiempo real para comunidades activas de más de 300 usuarios.
+- Diagnóstico, reproducción y documentación técnica de fallas (Troubleshooting L1) en tiempo real para comunidades activas de más de 300 usuarios.
 
-- Planificación logística de eventos online y redacción de documentación y guías normativas para estructurar el funcionamiento de la comunidad.
+- Gestión del ciclo de vida de incidencias, planificación logística de eventos online y redacción de documentación técnica y guías normativas.
 
 
 
@@ -46,7 +46,7 @@ Estudiante avanzado de Programación Informática con foco en desarrollo de soft
 
 2019 - 2020
 
-- Programación de lógica de control en autómatas programables (PLC Siemens, Omron y Schneider) para procesos de automatización industrial.
+- Programación de lógica de control en autómatas programables (PLC Siemens, Omron y Schneider), aplicando lógica de relés, programación de autómatas y manejo de estados para procesos de automatización industrial.
 
 - Programación y parametrización de tornos CNC y fresadoras mediante código G, aplicando lógica de control numérico y sistemas de coordenadas.
 
@@ -63,9 +63,9 @@ Apr 2026
 
 - Desarrollo de arquitectura estructurada aplicando patrones de diseño para la asignación y gestión dinámica de roles y entidades.
 
-- Redacción de pruebas unitarias (Kotest, Mocks, Stubs) y optimización de algoritmos de validación para minimizar el consumo de recursos.
+- Diseño y ejecución de pruebas unitarias (Kotest, Mocks, Stubs) integradas en un pipeline de CI/CD (GitHub Actions) como barrera de calidad automatizada para la validación de Pull Requests.
 
-- Flujo de desarrollo colaborativo en Git, gestionando ramas individuales e integrando código mediante revisión y aprobación de Pull Requests e integracion con Github Actions.
+- Flujo de desarrollo colaborativo en Git, gestionando ramas individuales y optimizando algoritmos de validación para minimizar el consumo de recursos.
 
 
 
@@ -90,8 +90,8 @@ Nov 2024
 
 
 # Habilidades
-**Desarrollo y Arquitectura:** Kotlin, Python (NumPy, Pandas), T-SQL; POO, Patrones de Diseño (Strategy, Builder, Template Method, Decorator, Generics, Observer), Testeo unitario (Kotest, Mocks, Stubs); C, Assembly 8086, Soporte de hardware, Armado de PC, Playwright, Trobuleshooting / Soporte L1.
+**Desarrollo y Arquitectura:** Kotlin, Python (NumPy, Pandas), T-SQL, C, Assembly 8086; POO, Patrones de Diseño (Strategy, Builder, Template Method, Decorator, Generics, Observer), API REST.
 
-**Sistemas, Redes y Herramientas:** Linux, Bash, Windows, Virtualización; Protocolos TCP/IP, Wireshark, GNS3; Git, GitHub, Jira, Documentación técnica, Active Directory, CI/CD (Integracion Continua, Despliegue Continuo), Github Actions.
+**Testing, Sistemas y Herramientas:** Playwright (UI & API Testing), Testeo unitario (Kotest, Mocks), Jira, Documentación de bugs, Linux, Bash, Git, CI/CD (GitHub Actions), TCP/IP, Wireshark, Troubleshooting L1.
 
 **Idiomas:** Inglés bilingüe (C2 - EF SET Certificate 77/100).
