@@ -16,20 +16,20 @@ Repositorio que contiene el código fuente de mi currículum vitae estructurado 
 
 ## Instalación
 
-1. Clonar el repositorio:
-   ```bash
-   git clone [https://github.com/LeanSChavez/nombre-del-repo.git](https://github.com/LeanSChavez/nombre-del-repo.git)
-   cd nombre-del-repo
+Clonar el repositorio:
+
+```bash
+git clone [https://github.com/LeanSChavez/nombre-del-repo.git](https://github.com/LeanSChavez/nombre-del-repo.git)
+cd nombre-del-repo
 
 ```
 
-2. Instalar la librería RenderCV:
+Instalar la librería RenderCV:
+
 ```bash
 pip install rendercv
 
 ```
-
-
 
 ## Uso
 
@@ -55,3 +55,4 @@ El comando generará automáticamente un directorio llamado `rendercv_output` qu
 
 ```
 
+```
