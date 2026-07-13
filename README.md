@@ -55,4 +55,3 @@ El comando generará automáticamente un directorio llamado `rendercv_output` qu
 
 ```
 
-```
