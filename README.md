@@ -21,7 +21,6 @@ Repositorio que contiene el código fuente de mi currículum vitae estructurado 
    git clone [https://github.com/LeanSChavez/nombre-del-repo.git](https://github.com/LeanSChavez/nombre-del-repo.git)
    cd nombre-del-repo
 
-```
 
 2. Instalar la librería RenderCV:
 ```bash
